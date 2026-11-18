@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /redflag-energy-preview/de
+Allow: /redflag-energy-preview/en
+Disallow: /api/
+Disallow: /*/projects/
+Disallow: /*/dashboard
+Disallow: /*/invite/
+Disallow: /*/login
+
